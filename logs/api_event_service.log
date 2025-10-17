@@ -1,0 +1,4 @@
+2025-10-09T08:25:33.910Z INFO  event-consumer Received event_type=LOAD cntr_no=MSCU0000007 correlation_id=corr-api-0006
+2025-10-09T08:25:33.912Z DEBUG json {"stow":"11-06-07"}
+2025-10-09T08:35:10.010Z INFO  event-consumer Received event_type=LOAD cntr_no=MSCU0000007 correlation_id=corr-api-0007
+2025-10-09T08:35:10.050Z DEBUG json {"stow":"09-04-03"}
