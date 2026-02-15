@@ -1,5 +1,6 @@
 # OneClickOps — Step-by-step Guide
 
+Watch the demo:
 [![Watch the demo: ](system_architecture.png)](https://youtu.be/j4UQnAiG-GQ?si=JcdJr_3yczFB195Y)
 
 
