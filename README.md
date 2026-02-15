@@ -52,13 +52,6 @@ By default endpoints are **dry_run**. For a real write, call with `?dry_run=fals
 - If MySQL init fails, ensure `seed/db.sql` is valid; check container logs: `docker compose logs -f mysql`.
 - If UI can’t reach API, confirm port 8000 and CORS (dev mode uses simple fetch to localhost).
 
-## What to tell judges (talk track)
-**Hook**: “Ops firefighting steals time. HarbourLight makes every duty officer a superhero.”  
-**Problem**: noisy incidents, unclear owners, slow MTTA/MTTR.  
-**Solution**: Auto-triage + executable runbooks + escalation drafts grounded in your schema and logs.  
-**Impact**: -50% MTTA, -30–60% MTTR on EA/VS golden paths.  
-**Closing**: “Ready for pilot next week.”
-
 ## Safe runbooks
 - Expire active vessel advice before creating a new one.
 - Keep-latest container snapshot; bounded delete older rows.
