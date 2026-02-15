@@ -1,6 +1,6 @@
 # OneClickOps — Step-by-step Guide
 
-[![Watch the demo: ](IMAGE_URL)](https://youtu.be/j4UQnAiG-GQ?si=JcdJr_3yczFB195Y)
+[![Watch the demo: ](system_architecture.png)](https://youtu.be/j4UQnAiG-GQ?si=JcdJr_3yczFB195Y)
 
 
 This repo is a turnkey demo of the L2 Ops Copilot. It includes:
